@@ -8,3 +8,9 @@ This program reads in an image file and outputs the associated image filter appl
 4. compress: compresses dimensions of the image given
 
 Refer to the ImageFilterTest class to run visual representations of image filters applied to the "tree.png" image.
+
+# Image FIlters
+
+Mirror:
+
+![Image Alt Text](TrieStructureVisual.png)
