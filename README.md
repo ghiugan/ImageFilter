@@ -9,8 +9,25 @@ This program reads in an image file and outputs the associated image filter appl
 
 Refer to the ImageFilterTest class to run visual representations of image filters applied to the "tree.png" image.
 
-# Image FIlters
+# Image Filters
 
-Mirror:
+**Original Image**
 
-![Image Alt Text](TrieStructureVisual.png)
+![Image Alt Text](tree.png)
+
+**Mirror:**
+
+![Image Alt Text](mirror.png)
+
+**Grey:**
+
+![Image Alt Text](grey.png)
+
+**Invert:**
+
+![Image Alt Text](invert.png)
+
+**Compress:**
+- NOTE: The size of image gets compressed each run of compress function. Run the function multiple times to see visual change for image quality being compressed
+  
+![Image Alt Text](compress.png)
